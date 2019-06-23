@@ -1,0 +1,7 @@
+<view class="content">
+  <image class="inner_avator" src='/images/avatar/3.png'></image>
+  <text class="inner_text">hello,king</text>
+  <view class="moto_border" bindtap="ontap">
+    <text class="moto">欢迎来到我的世界</text>
+  </view>
+</view>
